@@ -1,0 +1,2 @@
+2025-07-08 00:36:21,184 - data_preprocessing - ERROR - Error loading data: Length mismatch: Expected axis has 2 elements, new values have 5 elements
+2025-07-08 00:40:45,776 - data_preprocessing - ERROR - Error loading data: Length mismatch: Expected axis has 1 elements, new values have 2 elements

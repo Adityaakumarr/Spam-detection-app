@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/config.py
+src/data_preprocessing.py
+src/feature_engineering.py
+src/model_training.py
+src/utils.py
+src/sms_spam_detection.egg-info/PKG-INFO
+src/sms_spam_detection.egg-info/SOURCES.txt
+src/sms_spam_detection.egg-info/dependency_links.txt
+src/sms_spam_detection.egg-info/top_level.txt
+tests/test_model.py
+tests/test_preprocessing.py

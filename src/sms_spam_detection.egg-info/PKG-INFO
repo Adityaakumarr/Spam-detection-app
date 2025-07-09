@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: sms-spam-detection
+Version: 1.0.0
+Summary: Machine Learning project for detecting spam SMS messages
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/sms-spam-detection
+Project-URL: Repository, https://github.com/yourusername/sms-spam-detection
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# SMS Spam Detection Project
+
+This project detects spam messages using machine learning.
